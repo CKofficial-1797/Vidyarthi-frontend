@@ -11,7 +11,7 @@ export const CourseContextProvider = ({ children }) => {
 
     async function fetchCourses() {
         try {
-            const { data } = await axios.get("http://localhost:3000/api/course/all");
+            const { data } = await axios.get(`${server}/api/course/all`);
             setCourses(data.courses);
         } catch (error) {
             console.error("Error fetching courses:", error);
@@ -19,7 +19,7 @@ export const CourseContextProvider = ({ children }) => {
     }
     async function fetchCourse(id){
         try {
-            const {data} = await axios.get(`http://localhost:3000/api/course/${id}`);
+            const {data} = await axios.get(`${server}/api/course/${id}`);
             setCourse(data.course);
         } catch (error) {
             

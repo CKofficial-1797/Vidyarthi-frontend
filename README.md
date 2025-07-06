@@ -76,12 +76,13 @@ A full-stack E-Commerce and Learning Management System (LMS) built using the MER
 
 ---
 
-## 🧪 Project Scale (Test Metrics)
+## 📈 Estimated Project Scale
 
-- 💰 100+ test-mode transactions processed end-to-end
-- 🧾 Supports 5+ user flows (login, cart, order, dashboard, enroll)
-- ⚙️ Handles 3K+ simulated API calls/day across services
-- 🛡️ 99.9% route protection coverage through RBAC middleware
+- 💰 ~100+ simulated transactions processed during development and testing
+- 🧾 Supports 5+ core user flows (login, cart, orders, dashboard, enrollments)
+- ⚙️ Estimated 3K+ API interactions/day under typical usage across services
+- 🛡️ Route protection implemented across all sensitive endpoints using JWT + RBAC
+
 
 ---
 

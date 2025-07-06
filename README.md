@@ -123,9 +123,10 @@ npm run dev
 
 ## 📽 Demo & Links
 
-- 🔗 Live Site: https://your-vercel-site.vercel.app
-- 📹 Demo Video: https://drive.google.com/demo-link
-- 🗂 GitHub Repo: https://github.com/your-username/mern-ecommerce-lms
+- 🔗 Live Site:https://vidyarthi-frontend.vercel.app/
+- 📹 Demo Video:https://drive.google.com/file/d/1wo1Ezn3BptT-XobruPkNafAJzXeuvZaF/view?usp=sharing
+- 🗂 GitHub Repo:https://github.com/CKofficial-1797/Vidyarthi-frontend  (Frontend)
+                 https://github.com/CKofficial-1797/vidyarthi.git (backend)
 
 ---
 
